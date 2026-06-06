@@ -19,6 +19,7 @@ The code supports four experiments:
 4. Comparison of outcomes between truthful and strategic agent groups.
 
 Experiments are run on both synthetic markets (logistic, linear, exponential demand) and real preference data from secondary school choice in Amsterdam (VWO, HAVO, VMBO tracks).
+This repo only contains the code to generate the synthetic markets. For Amsterdam data (the paper used preference data from 2017) please contact [OSVO](https://verenigingosvo.nl/contact/).
 
 ## Installation
 
