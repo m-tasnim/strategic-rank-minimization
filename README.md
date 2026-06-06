@@ -65,11 +65,3 @@ If you use this code, please cite the paper:
   publisher={Springer}
 }
 ```
-
-## License
-
-[Add license here, e.g. MIT]
-
-## Contact
-
-Mayesha Tasnim — [add contact email or GitHub handle]
